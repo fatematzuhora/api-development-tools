@@ -115,6 +115,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Dropwizard](http://www.dropwizard.io/1.0.0/docs/): Framework for developing ops-friendly, high-performance, RESTful web services.
 - [Jersey](https://jersey.java.net/): RESTful web services in Java.
 - [Spring Boot](https://projects.spring.io/spring-boot/): RESTful Web Service using Spring, high-performance and little configuration needed.
+- [Metamug Mason](https://github.com/metamug/mason): Create REST APIs with JSP tags and SQL. Edit and hot deploy REST resources on the server.
 
 ### Haskell
 - [Scotty](https://github.com/scotty-web/scotty): Micro web framework inspired by Ruby's Sinatra, using WAI and Warp.
@@ -150,6 +151,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Client Development Tools
 
 ### General
+- [OpenAPI extension for Microsoft Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi): Microsoft VS Code IDE has an OpenAPI extension that includes OpenAPI / Swagger file creation, editing, navigation, code snippets, IntelliSense, security static analysis.
 - [Swagger CodeGen](https://github.com/swagger-api/swagger-codegen): Generate client libraries automatically from a Swagger-compliant server.
 - [sdks.io](https://sdks.io/): Explore Automatically Generated SDKs.
 - [AutoRest](https://github.com/Azure/autorest): Generate client libraries for RESTful web services
@@ -192,10 +194,11 @@ Contributions are most welcome. Categories are also open to suggestions!
 ## API Clients
 
 ### Hosted
-- [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
+- [ExtendsClass](https://extendsclass.com/rest-client-online.html): Web-based HTTP client.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
 
 ### Desktop
+- [Firecamp](https://firecamp.app): API Studio for WebSocket, Rest API and GraphQL.
 - [HTTPie](https://httpie.org/): Command line HTTP client.
 - [HttpMaster](https://www.httpmaster.net/): Desktop tool for REST API testing.
 - [Paw](https://paw.cloud/): REST client for Mac.
@@ -231,11 +234,13 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [API Stylebook Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [API Stylebook Design Topics](http://apistylebook.com/design/topics/)
 - [Adidas-group API Design Guide](https://github.com/adidas-group/api-guidelines)
+- [Azure API Design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ## API Publishing
 - [Mashape](https://www.mashape.com/): API Marketplace.
 
 ## API Gateways
+- [Ambassador API Gateway](https://www.getambassador.io/): Ambassador is a specialized control plane that translates Kubernetes annotations to Envoy configuration. All traffic is directly handled by the high-performance Envoy Proxy.
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
 - [API Umbrella](https://apiumbrella.io/): Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
@@ -258,19 +263,21 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Oathkeeper](https://github.com/ory/oathkeeper): OIdentity & Access Proxy (IAP) that authorizes HTTP requests based on sets of rules. Integrates with ORY Hydra. 
 
 ## API Security
+- [Online OpenAPI/Swagger File Security Audit](https://apisecurity.io/tools/audit/): Free online static analysis of API contract files. Upload the file and get the report.
 - [API Security checklist](https://github.com/shieldfy/API-Security-Checklist): Checklist of the most important security countermeasures when designing, testing, and releasing your API.
 - [Ory Hydra](https://github.com/ory/hydra): OAuth2 server with OpenID Connect written in Go.
 - [Approov](https://approov.io/): Mobile App Attestation to ban API abuse by verifying the software that is accessing your API. User authentication is not enough!
+- [42Crunch](https://42crunch.com/): API Security platform that includes static analysis, dynamic testing (scan), and runtime protection (API firewall.)
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
-- [Galileo](https://getgalileo.io/): API Monitoring Platform.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
+- [vREST NG](https://ng.vrest.io): An enterprise ready application for automated API Testing. It is very simple and intuitive application.
 
 ## API Developer Portal
 - [Tyk](https://tyk.io/features): API Developer Portal on top of API gateway, make your API gateway easier to be used by developers.
@@ -288,7 +295,6 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Ion](https://github.com/ionwg/ion-doc)
 
 ## Learning Resources
-- [Choosing an HTTP Status Code](http://racksburg.com/choosing-an-http-status-code/)
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)
 - [Roy Fielding's dissertation on REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
