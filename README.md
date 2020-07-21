@@ -46,6 +46,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Mulesoft Anypoint](https://anypoint.mulesoft.com/): Design and publish enterprise-grade APIs using RAML
 - [Sandbox](https://getsandbox.com/): Quick and easy mock RESTful API from API definitions
 - [Restunited](https://restunited.com/): Generate SDK, Documentation with Testing and Debugging
+- [OpenAPI Definition Designer](https://interaction-design.co.za/openapidesigner/design.php): Free visual OpenAPI3 definition creation and editing tool.
 
 ## API Specifications
 - [API Commons](http://apicommons.org/): A repository of language-agnostic API specifications / Data Models.
@@ -73,6 +74,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [apistar](https://github.com/encode/apistar): A smart Web API framework, designed for Python3.
 - [sanic](https://github.com/channelcat/sanic): Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
 - [hug](https://github.com/timothycrosley/hug): hug aims to make developing Python driven APIs as simple as possible, but no simpler.
+- [FastAPI](https://github.com/tiangolo/fastapi): FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. 
 
 ### Javascript
 - [hapi.js](https://hapijs.com/): Web and services application framework for Node.js.
@@ -99,6 +101,7 @@ Contributions are most welcome. Categories are also open to suggestions!
 - [Goat](https://github.com/bahlo/goat): Minimalistic REST API server in Go.
 - [Resoursea](https://github.com/resoursea/api): REST framework for quickly writing resource based services.
 - [Zerver](https://github.com/cosiner/zerver): Zerver is a expressive, modular, feature completed RESTful framework.
+- [Fibre](https://github.com/gofiber/fiber): :zap:Fiber is an Express inspired web framework written in Go with :coffee: .
 
 ### Scala
 - [Colossus](https://github.com/tumblr/colossus): I/O and microservice library for Scala.
